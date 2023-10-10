@@ -33,18 +33,18 @@ A CapCut Archive for MacOS compiled from several sources from web archive to dow
 
 [CapCut 1.6.1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_6_1_308_capcutpc_0.dmg)
 
-CapCut 1.5.1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_5_1_248_capcutpc_0.dmg
+[CapCut 1.5.1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_5_1_248_capcutpc_0.dmg)
 
-CapCut 1.4.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0_188_capcutpc_0.dmg
+[CapCut 1.4.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0_188_capcutpc_0.dmg)
 
-CapCut 1.4.0 beta 6](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta6_176_capcutpc_beta.dmg
+[CapCut 1.4.0 beta 6](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta6_176_capcutpc_beta.dmg)
 
-CapCut 1.4.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta5_174_capcutpc_beta.dmg
+[CapCut 1.4.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta5_174_capcutpc_beta.dmg)
 
-CapCut 1.4.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta4_171_capcutpc_beta.dmg
+[CapCut 1.4.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta4_171_capcutpc_beta.dmg)
 
-CapCut 1.4.0 beta 3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta3_168_capcutpc_beta.dmg
+[CapCut 1.4.0 beta 3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta3_168_capcutpc_beta.dmg)
 
-CapCut 1.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta2_167_capcutpc_beta.dmg
+[CapCut 1.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta2_167_capcutpc_beta.dmg)
 
-CapCut 1.4.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta1_165_capcutpc_beta.dmg
+[CapCut 1.4.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta1_165_capcutpc_beta.dmg)
