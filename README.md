@@ -48,3 +48,5 @@ A CapCut Archive for MacOS compiled from several sources from web archive to dow
 [CapCut 1.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta2_167_capcutpc_beta.dmg)
 
 [CapCut 1.4.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta1_165_capcutpc_beta.dmg)
+
+[CapCut 1.3.2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_3_2_159_capcutpc_0.dmg)
