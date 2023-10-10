@@ -19,6 +19,8 @@ A CapCut Archive for MacOS compiled from several sources from web archive to dow
 
 [CapCut 2.1.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0_424_capcutpc_0.dmg)
 
+[CapCut 2.1.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta5_418_capcutpc_beta.dmg)
+
 [CapCut 2.0.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_0_0_359_capcutpc_0.dmg)
 
 [CapCut 2.0.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_0_0-beta5_352_capcutpc_beta.dmg)
