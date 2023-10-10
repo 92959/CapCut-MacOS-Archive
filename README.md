@@ -7,11 +7,11 @@ A CapCut Archive for MacOS compiled from several sources
 
 [CapCut 2.4.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta5_645_capcutpc_beta_creatortool.dmg)
 
-[CapCut 2.4.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta4_637_capcutpc_beta_creatortool.dmg)
+[CapCut 2.4.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta4_637_capcutpc_beta_creatortool.dmg) (Captured by Bruteforce)
 
 [CapCut 2.4.0 beta 3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta3_631_capcutpc_beta_creatortool.dmg)
 
-[CapCut 2.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta2_627_capcutpc_beta_creatortool.dmg)
+[CapCut 2.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta2_627_capcutpc_beta_creatortool.dmg) (Captured by Bruteforce)
 
 [CapCut 2.4.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta1_610_capcutpc_beta_creatortool.dmg)
 
