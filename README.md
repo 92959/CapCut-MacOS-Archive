@@ -1,5 +1,5 @@
 # CapCut-MacOS-Archive
-A CapCut Archive for MacOS compiled from several sources from web archive to download history
+A CapCut Archive for MacOS compiled from several sources
 
 [CapCut 2.5.3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_3_819_capcutpc_0_creatortool.dmg)
 
@@ -19,7 +19,7 @@ A CapCut Archive for MacOS compiled from several sources from web archive to dow
 
 [CapCut 2.1.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0_424_capcutpc_0.dmg)
 
-[CapCut 2.1.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta5_418_capcutpc_beta.dmg)
+[CapCut 2.1.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta5_418_capcutpc_beta.dmg) (Captured from [WayBack Machine](https://web.archive.org/web))
 
 [CapCut 2.0.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_0_0_359_capcutpc_0.dmg)
 
