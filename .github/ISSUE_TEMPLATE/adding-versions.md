@@ -1,6 +1,6 @@
 ---
 name: Adding versions
-about: Describe this issue template's purpose here.
+about: Request to add your found versions
 title: Adding versions
 labels: ''
 assignees: ''
