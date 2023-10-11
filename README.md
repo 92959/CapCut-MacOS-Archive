@@ -112,3 +112,5 @@ Contributions are welcome!
 [CapCut 1.4.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_4_0-beta1_165_capcutpc_beta.dmg)
 
 [CapCut 1.3.2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_3_2_159_capcutpc_0.dmg)
+
+[CapCut 1.3.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_3_0_138_capcutpc_0.dmg)
