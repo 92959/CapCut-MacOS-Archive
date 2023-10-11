@@ -15,7 +15,7 @@ Contributions are welcome!
 
 **Downloadable/Found Versions:**
 
-[CapCut 2.6.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_0_creatortool.dmg) (Captured by Bruteforce)
+[CapCut 2.6.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_0_creatortool.dmg)
 
 [CapCut 2.6.0 (Google)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_google_creatortool.dmg)
 
@@ -33,11 +33,11 @@ Contributions are welcome!
 
 [CapCut 2.5.2 (NVIDIA)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_2_768_capcutpc_nvidia_creatortool.dmg)
 
-[CapCut 2.5.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_731_capcutpc_0_creatortool.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.5.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_731_capcutpc_0_creatortool.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
-[CapCut 2.5.0 (Google)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_731_capcutpc_google_creatortool.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.5.0 (Google)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_731_capcutpc_google_creatortool.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
-[CapCut 2.5.0 (NVIDIA)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_731_capcutpc_nvidia_creatortool.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.5.0 (NVIDIA)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_0_731_capcutpc_nvidia_creatortool.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
 [CapCut 2.4.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0_646_capcutpc_0_creatortool.dmg)
 
@@ -47,11 +47,11 @@ Contributions are welcome!
 
 [CapCut 2.4.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta5_645_capcutpc_beta_creatortool.dmg)
 
-[CapCut 2.4.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta4_637_capcutpc_beta_creatortool.dmg) (Captured by Bruteforce)
+[CapCut 2.4.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta4_637_capcutpc_beta_creatortool.dmg)
 
 [CapCut 2.4.0 beta 3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta3_631_capcutpc_beta_creatortool.dmg)
 
-[CapCut 2.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta2_627_capcutpc_beta_creatortool.dmg) (Captured by Bruteforce)
+[CapCut 2.4.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta2_627_capcutpc_beta_creatortool.dmg)
 
 [CapCut 2.4.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0-beta1_610_capcutpc_beta_creatortool.dmg)
 
@@ -73,13 +73,13 @@ Contributions are welcome!
 
 [CapCut 2.1.0 beta 5](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta5_418_capcutpc_beta.dmg) (Captured from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
-[CapCut 2.1.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta4_412_capcutpc_beta.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.1.0 beta 4](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta4_412_capcutpc_beta.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
-[CapCut 2.1.0 beta 3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta3_410_capcutpc_beta.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.1.0 beta 3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta3_410_capcutpc_beta.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
-[CapCut 2.1.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta2_406_capcutpc_beta.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.1.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta2_406_capcutpc_beta.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
-[CapCut 2.1.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta1_402_capcutpc_beta.dmg) (Captured by Bruteforce, with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
+[CapCut 2.1.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_1_0-beta1_402_capcutpc_beta.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
 [CapCut 2.0.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_0_0_359_capcutpc_0.dmg)
 
