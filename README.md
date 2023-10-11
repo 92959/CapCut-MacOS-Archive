@@ -2,9 +2,13 @@
 A CapCut Archive for MacOS compiled from several sources
 
 Google and NVIDIA versions are captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*).
+
 Beta versions don't have their Google and NVIDIA counterparts.
+
 Any version below 2.2.0 will only have its Google counterpart.
+
 Any version below 2.1.0 appear to have no brand-name counterparts. Contributions are welcome though!
+
 Betas of 2.6.0 and version 2.5.1 are missing. Contributions are welcome!
 
 [CapCut 2.6.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_0_creatortool.dmg) (Captured by Bruteforce)
