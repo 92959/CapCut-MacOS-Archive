@@ -19,6 +19,8 @@ Installers:
 
 [Google](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.2_installer.dmg)
 
+If you want to use an older version or are having troubles with your current version, you can download the versions below:
+
 **Downloadable/Found Versions:**
 
 [CapCut 2.6.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_0_creatortool.dmg)
