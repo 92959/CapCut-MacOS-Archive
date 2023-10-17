@@ -11,7 +11,7 @@ Any version below 2.1.0 appear to have no brand-name counterparts.
 
 Contributions are welcome!
 
-
+If you just want the latest version, you are recommended to use the [installer](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_installer.dmg).
 
 **Downloadable/Found Versions:**
 
