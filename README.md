@@ -121,6 +121,6 @@ If you want to use an older version or are having troubles with your current ver
 
 [CapCut 1.3.2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_3_2_159_capcutpc_0.dmg)
 
-[CapCut 1.3.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_3_0_138_capcutpc_0.dmg)
+[CapCut 1.3.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_3_0_138_capcutpc_0.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
 
 [CapCut 1.2.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_1_2_0_110_capcutpc_0.dmg) (Captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*))
