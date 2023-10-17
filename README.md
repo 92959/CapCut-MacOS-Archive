@@ -3,7 +3,7 @@ A CapCut Archive for MacOS compiled from several sources
 
 Google and NVIDIA versions are captured with help from [WayBack Machine](https://web.archive.org/web/*/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages*).
 
-Beta versions don't have their Google and NVIDIA counterparts.
+Beta versions don't have any brand-name counterparts.
 
 Any version below 2.2.0 will only have its Google counterpart.
 
