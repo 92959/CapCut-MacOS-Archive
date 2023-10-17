@@ -13,7 +13,7 @@ Contributions are welcome!
 
 If you just want the latest version, you are recommended to use the installers below:
 
-Installers:
+**Installers:**
 
 [Normal](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_installer.dmg)
 
