@@ -23,6 +23,10 @@ If you want to use an older version or are having troubles with your current ver
 
 **Downloadable/Found Versions:**
 
+[CapCut 2.7.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0-beta2_876_capcutpc_beta_creatortool.dmg)
+
+[CapCut 2.7.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0-beta1_863_capcutpc_beta_creatortool.dmg)
+
 [CapCut 2.6.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_0_creatortool.dmg)
 
 [CapCut 2.6.0 (Google)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_6_0_824_capcutpc_google_creatortool.dmg)
