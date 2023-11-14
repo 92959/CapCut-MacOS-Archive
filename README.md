@@ -15,13 +15,19 @@ If you just want the latest version, you are recommended to use the installers b
 
 **Installers:**
 
-[Normal](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_installer.dmg)
+[Normal](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.3_installer.dmg)
 
-[Google](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.2_installer.dmg)
+[Google](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.3_installer.dmg)
 
 If you want to use an older version or are having troubles with your current version, you can download the versions below:
 
 **Downloadable/Found Versions:**
+
+[CapCut 2.7.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0_886_capcutpc_0_creatortool.dmg)
+
+[CapCut 2.7.0 (Google)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0_886_capcutpc_google_creatortool.dmg)
+
+[CapCut 2.7.0 (NVIDIA)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0_886_capcutpc_nvidia_creatortool.dmg)
 
 [CapCut 2.7.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0-beta2_876_capcutpc_beta_creatortool.dmg)
 
