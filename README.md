@@ -15,9 +15,11 @@ If you just want the latest version, you are recommended to use the installers b
 
 **Installers:**
 
-[Normal](https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.3_installer.dmg)
+[Normal (New GUI)](https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.3_installer.dmg)
 
-[Google](https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.3_installer.dmg)
+[Normal (Direct Download)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.3_installer.dmg)
+
+[Google (Direct Download Only)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.3_installer.dmg)
 
 If you want to use an older version or are having troubles with your current version, you can download the versions below:
 
