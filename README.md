@@ -15,15 +15,21 @@ If you just want the latest version, you are recommended to use the installers b
 
 **Installers:**
 
-[Normal (New GUI)](https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.3_installer.dmg)
+[Normal (New GUI)](https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.4_installer.dmg)
 
-[Normal (Direct Download)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.3_installer.dmg)
+[Normal (Direct Download)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.4_installer.dmg)
 
-[Google (Direct Download Only)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.3_installer.dmg)
+[Google (Direct Download Only)](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_google_1.2.4_installer.dmg)
 
 If you want to use an older version or are having troubles with your current version, you can download the versions below:
 
 **Downloadable/Found Versions:**
+
+[CapCut 2.9.0 beta 2](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_9_0-beta2_954_capcutpc_beta_creatortool.dmg)
+
+[CapCut 2.9.0 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_9_0-beta1_951_capcutpc_beta_creatortool.dmg)
+
+[CapCut 2.8.5 beta 1](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_8_5-beta1_922_capcutpc_beta_creatortool.dmg)
 
 [CapCut 2.7.0](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_7_0_886_capcutpc_0_creatortool.dmg)
 
